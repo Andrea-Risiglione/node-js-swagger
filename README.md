@@ -17,4 +17,4 @@ after you set your .env file, if you want to run the server, you just need to wr
     npm start
 
 # NOTES
-Implemented all the entities swagger's logic, a part of a trouble to fix as regards retrieving [single user's comment by id](/node-js-swagger/router/comment.js)
+Implemented all the entities swagger's logic, a part of a trouble to fix as regards retrieving [single user's comment by id](/router/comment.js)
